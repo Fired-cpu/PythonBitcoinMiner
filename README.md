@@ -1,4 +1,4 @@
-# Bitcoin Solo Miner
+# Personal Bitcoin miner (*based from HugoXOX3's*)
 
 ---
 

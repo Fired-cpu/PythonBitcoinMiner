@@ -1,10 +1,12 @@
 # Personal Bitcoin miner (*based from HugoXOX3's*)
-
+#
+# This contain the 2.1.0 A version instead of the V3!!
+#
 ___
 
 ## Latest Version
 
-[Version v2.0.0](https://github.com/HugoXOX3/PythonBitcoinMiner/releases)
+[Get the latest version here: (Upstream) ](https://github.com/HugoXOX3/PythonBitcoinMiner/releases)
 
 Please report any issues at [Issues](https://github.com/HugoXOX3/PythonBitcoinMiner/issues) to help improve and fix the program.
 

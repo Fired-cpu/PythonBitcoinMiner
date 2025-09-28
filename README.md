@@ -1,6 +1,6 @@
 # Personal Bitcoin miner (*based from HugoXOX3's*)
 
----
+___
 
 ## Latest Version
 
